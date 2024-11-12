@@ -1,4 +1,4 @@
-<h1 align="center">Jeepies!</h1>
+<h1 align="center">jeepies!</h1>
 <p align="center">
 Hey! I'm jeepies - but you can call me Jay! I am a 19 year old software engineer from England.
 </p>
